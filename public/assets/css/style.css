@@ -833,21 +833,21 @@ blockquote p {
     padding-right: 0px;
 }
 
-.contact-form{
+.contact{
     background-color: #232425;
     width: 100%;
     height: auto;    
     padding: 78px 0px 60px 100px;
 }
 
-.contact-form h2{
+.contact h2{
     font-family: 'Open Sans', sans-serif;
     font-size: 30px;
     color: #fff; 
     margin: 0px;   
 }
 
-.contact-form p{
+.contact p{
     font-family: 'Open Sans', sans-serif;
     font-size: 15px;
     color: #646464;
