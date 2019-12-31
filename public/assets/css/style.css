@@ -816,12 +816,13 @@ blockquote p {
 
 .map-form{
     width: 100%;
-    padding: 150px 0px 150px 0px;    
+    padding: 150px 0px 150px 0px;   
+    height: 500px; 
 }
 
 #map {
     width: 100%;
-    height: 656px;
+    height: 300px;
 }
 
 .map-side{
@@ -854,9 +855,14 @@ blockquote p {
     margin-top: 25px;    
 }
 
-
+.contactme {
+    color: white;
+}
 /* Form Styling */
+.icons {
+    color:white;
 
+}
 .form-opus{
     padding-top:40px;
 }
@@ -894,6 +900,9 @@ textarea.form-control {
     background-color: transparent;
     
 }
+.connect {
+    color: white;
+}
 
 
 /* ----------------------------------------------------------------------------------------
@@ -901,7 +910,7 @@ textarea.form-control {
 * ---------------------------------------------------------------------------------------*/
 
 .footer-area{ 
-    margin-bottom: 76px;
+    margin-bottom: 30px;
     border-top: #d2d0d0 1px solid;
     padding-top: 34px;    
 }
