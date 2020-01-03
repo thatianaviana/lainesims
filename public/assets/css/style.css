@@ -70,7 +70,8 @@ a {
 }
 
 a:hover {
-    color: #fff;
+    /* color: #fff; */
+    color: red;
     text-decoration: none;
 }
 
@@ -839,6 +840,7 @@ blockquote p {
     width: 100%;
     height: auto;    
     padding: 78px 0px 60px 100px;
+    /* text-align: center; */
 }
 
 .contact h2{
@@ -1338,7 +1340,7 @@ blockquote {
     text-transform: uppercase;
 }
 
-.comment-head a:hover {    
+.comment-head a:x {    
     color: #1e1e1e;    
 }
 
