@@ -1610,9 +1610,11 @@ input[type="color"]:focus,
     border: 2px solid #1e1e1e;
 }
 
-
-
-
+.reach {
+    margin: auto;
+    display: block;
+  }
+  
 
 
 
