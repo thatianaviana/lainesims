@@ -1615,9 +1615,13 @@ input[type="color"]:focus,
     display: block;
   }
   
+.title-desc {
+    font-style: italic;
+}
 
-
-
+p {
+    font-weight: bolder;
+}
 
 
 
